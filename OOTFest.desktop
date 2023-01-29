@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=OOTFest
+Exec=~/git/ootfest/soh.appimage
+Icon=~/git/ootfest/sohIcon.png
+comment=Ocarina of Time
+Type=Application
+Terminal=false
+Encoding=UTF-8
+Categories=Game;
