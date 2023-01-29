@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except these:
+!.gitignore
+!README.md
+!shipofharkinian.json
+!soh.appimage
+!ootfest-update-linux.sh
