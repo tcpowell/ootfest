@@ -31,5 +31,6 @@ Run the update script (in the next section)
 ## Update Script
 Open a terminal window and run:
 ```
+cd ~/git/ootfest
 ./ootfest-update-linux.sh
 ```
