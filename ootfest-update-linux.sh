@@ -24,4 +24,6 @@ echo "Terminal=false" >> OOTFest.desktop
 echo "Encoding=UTF-8" >> OOTFest.desktop
 echo "Categories=Game;" >> OOTFest.desktop
 
+chmod +x OOTFest.desktop
+
 sudo cp OOTFest.desktop /usr/share/applications/OOTFest.desktop
